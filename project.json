@@ -1,5 +1,5 @@
 {
-  "name": "MoveFiles",
+  "name": "UIPathMoveFiles",
   "description": "MoveFiles",
   "main": "Main.xaml",
   "dependencies": {
