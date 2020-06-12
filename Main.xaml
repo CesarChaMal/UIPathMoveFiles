@@ -60,13 +60,13 @@
       <Variable x:TypeArguments="s:String[]" Name="NumberOfFiles" />
       <Variable x:TypeArguments="x:String" Name="DestinationPath">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">C:\IdeaProjects\UIPathMoveFiles\destinationFolder</Literal>
+          <Literal x:TypeArguments="x:String">E:\IdeaProjects\UIPathMoveFiles\destinationFolder</Literal>
         </Variable.Default>
       </Variable>
       <Variable x:TypeArguments="x:Int32" Name="Counter" />
       <Variable x:TypeArguments="x:String" Name="SourcePath">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">C:\IdeaProjects\UIPathMoveFiles\sourceFolder</Literal>
+          <Literal x:TypeArguments="x:String">E:\IdeaProjects\UIPathMoveFiles\sourceFolder</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
